@@ -1,4 +1,4 @@
-# FNP Sales Analysis Dashboard
+# FNP Sales Analysis Dashboard (using Excel)
 
 ## Project Overview
 This project presents a detailed sales analysis dashboard for FNP (Ferns N Petals), designed to monitor and visualize key business performance indicators. It provides actionable insights into revenue trends, customer behavior, product performance, and regional sales distribution.
