@@ -1,35 +1,35 @@
 # FNP Sales Analysis Dashboard
 
 ## Project Overview
-This project is a comprehensive sales analysis dashboard for FNP (Ferns N Petals), created to monitor and visualize key business performance indicators. It provides detailed insights into revenue trends, customer behavior, product performance, and regional demand patterns.
+This project presents a detailed sales analysis dashboard for FNP (Ferns N Petals), designed to monitor and visualize key business performance indicators. It provides actionable insights into revenue trends, customer behavior, product performance, and regional sales distribution.
 
 ## Features
-- Display of core KPIs: Total Orders, Total Revenue, Average Delivery Time, and Average Customer Spending
+- Core KPIs: Total Orders, Total Revenue, Average Delivery Time, and Average Customer Spending
 - Revenue analysis by Occasion, Month, Product, Category, and City
-- Hourly revenue trend based on order times
+- Hourly revenue trends based on order timestamps
 - Interactive filters for Delivery Date, Order Date, and Occasion
-- Clean and user-friendly dashboard design for business decision-making
+- Clean and intuitive dashboard layout for effective decision-making
 
 ## Key Insights
 - February and October recorded the highest revenue
-- Flower category and Anniversary occasion generated the most revenue
-- Top-selling products include Magnam Set and Quia Gift
-- Peak order hours were between 9 AM and 11 AM
-- Imphal, Dhanbad, and Kavali were the top-performing cities in terms of order count
-- Average customer spends approximately ₹3,520.98 per order
+- Flowers category and Anniversary occasion generated the most revenue
+- Top-performing products include Magnam Set and Quia Gift
+- Peak order times were between 9 AM and 11 AM
+- Imphal, Dhanbad, and Kavali were the top cities by order count
+- Average customer spending per order is ₹3,520.98
 
 ## Tools and Technologies
-- Power BI / Tableau / Microsoft Excel (Specify the exact tool used)
-- Data transformation using Power Query / Excel formulas / SQL (based on your process)
-- Dashboard development and interactive visualization
+- Microsoft Excel
+- Data cleaning and transformation using Power Query and Excel functions
+- Dashboard creation using PivotTables, Power Pivot, and slicers
 
 ## Dataset Description
-The dataset used for this dashboard includes:
+The dataset used includes:
 - Order and delivery dates
 - Product names and categories
-- Occasion associated with the order
-- City-wise order data
+- Occasion tags for each order
+- City-wise sales data
 - Total revenue per transaction
 
 ## Objective
-To deliver meaningful and actionable insights from sales data to support business strategies around marketing, inventory planning, and customer engagement.
+To derive actionable business insights from historical sales data that can guide decisions in marketing strategy, inventory management, and customer targeting.
